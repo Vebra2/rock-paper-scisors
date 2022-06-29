@@ -5,6 +5,10 @@ h1{
     text-decoration: double;
     text-align: center;
 }
-#your-choice{
-    text-align: end;
+
+.DiffChoices{
+    display: flex;
+    justify-content: space-around;
+    align-items: centers;
+    padding: 0 50px 0 0;
 }
